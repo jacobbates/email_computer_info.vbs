@@ -1,0 +1,42 @@
+Current User:           jacob 
+Domain Name:            TESTDOMAIN 
+Full Name:              Jacob Bates 
+Display Name:           Bates, Jacob 
+Description:            Test User 
+Department:             Department 
+Email Address:          test@test.com 
+Contact PH 1:           1234567890
+Contact PH 2:           0987654321
+LDAP Info:              CN=Bates\, Jacob,OU=Users,DC=TESTDOMAIN
+
+System Info 
+Computer Name:          HostNameHere 
+Manufacturer:           Dell Inc. 
+Model Name:             Latitude E7470 
+CPU Type:               Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz 
+Serial Number:          123456 
+BIOS Desc:              BIOS Date: 01/01/01 01:01:01 Ver: 1.11.1.11 
+Default Printer:        \\PRINTSERVER\Printer Hostname 
+
+Memory Info
+Manufacturer:           Kingston
+Capacity:               8.00 GB 
+Clock Speed:            2,133.00 MHz 
+Part Number:            AAAAAAABBBBBBB-C    
+
+Disk Info 
+Disk Model:             WD 1100 SATA 256GB SCSI Disk Device 
+Volume Label:           C:
+Disk Volume:            237.98 GB
+Free Space:             157.16 GB
+% Remaining:            66.04 %
+
+Monitor Number:         1 
+Manufacturer ID:        CMN 
+Device ID Num:          1234 
+Manufacture Date:       1/2018 
+Serial Number:          123456-123456 
+Model Name:             Model Name 
+Version Number:         1.0 
+Windows VESA ID:        ABC1234 
+Windows PNP ID:         12345678901234567890 
