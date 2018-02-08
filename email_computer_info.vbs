@@ -4,7 +4,7 @@
 'v1.0 (04-01-2018)
 
 'A VBS Auditing script that can be ran on Windows 7
-'Collect useful asset information such as computer and monitor serials and compiles it into an email
+'Collect useful asset information such as computer and monitor serials and compile it into an email
 'Email is launched in Outlook (if installed) and sent to the specified email address.
 'Designed to be ran locally on a users computer when collecting asset or diagnostic information
 'Requires user to be on Active Directory / Windows Server Domain
